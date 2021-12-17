@@ -26,9 +26,9 @@
     
     "chromeOptions": ["--disable-notifications", "--start-maximized"] => Opções do selenium
     
-    "facebook_login": "renatozanetti9@gmail.com" => Email de login do facebook
+    "facebook_login": "facebook@gmail.com" => Email de login do facebook
     
-    "facebook_password": "Ren@to03Thau" => Senha de login do facebook
+    "facebook_password": "senha" => Senha de login do facebook
     
     "minSimilarity": 0.5 => Taxa de similaridade para conicidir nome do banco de dados com o nome do facebook
     
