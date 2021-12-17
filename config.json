@@ -1,0 +1,11 @@
+{
+  "timeOut": 10000,
+  "timeOutElementExists": 5000,
+  "chromedriver_path": "chromedriver",
+  "chromeOptions": ["--disable-notifications", "--start-maximized"],
+  "facebook_login": "email conta facebook",
+  "facebook_password": "senha conta facebook",
+  "minSimilarity": 10,
+  "minTimeStandBy": 10000,
+  "maxTimeStandBy": 12000
+}
